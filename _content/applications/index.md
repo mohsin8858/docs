@@ -8,7 +8,7 @@ sections:
 image: /applications/icon.png
 ---
 
-# Applications
+# Applications[ you have been hacked]
 
 By *Applications*, we mean whatever it is your devices communicate with on the internet. This could be as simple as an [IFTTT Maker Applet](https://ifttt.com/maker) or a visual flow using [Node-RED](nodered/) to custom code on some server.
 
